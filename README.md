@@ -35,6 +35,7 @@ Python 3.6 or later with the following `pip install -r requirements.txt` package
 ## Testing
 
 **Script:** test_my.py
+
 **Optional args:**
  -  image_path  -path to test images
  - store_path  -path to test results
